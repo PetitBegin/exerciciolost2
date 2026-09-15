@@ -10,4 +10,5 @@ reprovados:list[float] = []
 for i in notas:
     if i <7:
         reprovados.append(i)
+
         
